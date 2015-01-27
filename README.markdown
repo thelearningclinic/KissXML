@@ -1,3 +1,8 @@
+TLC Changes
+===========
+* 46491 Nurse DDXML category fix
+
+=========
 KissXML provides a drop-in replacement for Apple's NSXML class culster in environments without NSXML (e.g. iOS).
 
 It is implemented atop the defacto libxml2 C library, which comes pre-installed on Mac & iOS.
