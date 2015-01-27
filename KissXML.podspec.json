@@ -12,7 +12,7 @@
   },
   "source": {
     "git": "https://github.com/thelearningclinic/KissXML.git",
-    "tag": "5.0"
+    "branch" : "master"
   },
   "source_files": "KissXML/**/*.{h,m}",
   "libraries": "xml2",
