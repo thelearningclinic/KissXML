@@ -11,8 +11,7 @@
     "Robbie Hanson": "robbiehanson@deusty.com"
   },
   "source": {
-    "git": "https://github.com/thelearningclinic/KissXML.git",
-    "branch" : "master"
+    "git": "https://github.com/thelearningclinic/KissXML.git"
   },
   "source_files": "KissXML/**/*.{h,m}",
   "libraries": "xml2",
